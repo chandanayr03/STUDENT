@@ -1,0 +1,9 @@
+
+
+nav{
+    position: fixed;
+    background-color: aquamarine;
+    height: 70px;
+    width: 100%;
+    z-index: 1;
+}
